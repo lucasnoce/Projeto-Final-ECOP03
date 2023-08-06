@@ -40,3 +40,11 @@ Quando a batalha termina, vilão e jogador sobem de nível. Vilão ganha pontos 
   - Elfo:   o elfo tem 20% de chance de roubar 5 de stamina do inimigo
 
 - Recompensa: a cada batalha ganha ele ganha 1 ponto para dividir em seus atributos.
+
+----
+Grupo:
+ - Lucas Arturo Noce - 2018001852
+ - Davi Gouveia Vilela - 2020015372
+ - Henrique Fernandes Saura - 21459
+ - Lucio Henrique Souza Silva - 2020007639
+ - Gustavo Leonardo Almeida Martins de Vasconcelos - 2019017893
